@@ -23,4 +23,8 @@ Just take a note that Whenever you restart your application, your table data wil
 This is how H2 database works since its in memory and will be UP when you execute you start your application.
 
 
-# H2-CRUDOperationsSpringJPA
+### Dependencies used to create this project
+
+* spring-boot-starter-web
+* spring-boot-starter-web
+* h2
